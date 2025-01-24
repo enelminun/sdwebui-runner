@@ -1,4 +1,5 @@
-## Quick Start
+## Description
+simple script to easily launch Stable Diffusion WebUI
 
 # Installation
 
