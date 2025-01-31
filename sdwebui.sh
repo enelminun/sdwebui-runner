@@ -57,7 +57,7 @@ run_sdwebui() {
         exit 1
     fi
     cd "$DIRECTORY" || exit
-    python launch.py
+    sh webui.sh --lowvram --always-batch-cond-uncond
 }
 
 # Komutları kontrol et
