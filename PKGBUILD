@@ -1,6 +1,6 @@
 # Maintainer bilgileri
 pkgname=sdwebui
-pkgver=1.0
+pkgver=2.0
 pkgrel=1
 pkgdesc="Script to run Stable Diffusion WebUI easily"
 arch=('any')
